@@ -1,2 +1,2 @@
-# Data_visualization_with_Seaborn
+# Data visualization with seaborn
 Simple data visualization with Seaborn
